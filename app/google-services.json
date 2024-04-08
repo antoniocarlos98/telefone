@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784425859307",
+    "project_id": "telefone-3a010",
+    "storage_bucket": "telefone-3a010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784425859307:android:668629e9d6debc913026ae",
+        "android_client_info": {
+          "package_name": "com.example.listatelefonica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzw1Y76WEtV5PTw-xrYm51DLaU7mS3h0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
